@@ -2,6 +2,17 @@
 
 A customizable library with extensive CSS and JavaScript utilities for building dynamic and responsive web interfaces. This library includes components for popups, buttons, forms, grids, flex layouts, typography, and more.
 
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Creator](#creator)
+5. [Customization](#customization)
+6. [Contribution Guidelines](#contribution-guidelines)
+7. [Support](#support)
+8. [Copyright and Licensing](#copyright-and-licensing)
+
+
 ## Features
 
 - **Dynamic Popups:** Customizable with timeouts and self-triggers.
@@ -118,6 +129,24 @@ The library allows for extensive customization to fit your needs:
 - **Text Color:** Use `data-card-text` to set the text color.
 
 These customization options provide flexibility in tailoring the appearance and behavior of elements to match the desired design and functionality.
+
+
+## Contribution Guidelines
+
+We welcome contributions to this library! Please follow these steps to contribute:
+
+1. **Fork the repository**: Click the 'Fork' button at the top right of the repository page on GitHub.
+2. **Create a new branch**: Create your feature branch (`git checkout -b feature-branch`).
+3. **Make your changes**: Add your changes to the codebase.
+4. **Commit your changes**: Commit your changes (`git commit -am 'Add new feature'`).
+5. **Push to the branch**: Push your changes to the branch (`git push origin feature-branch`).
+6. **Create a Pull Request**: Open a pull request to the main branch of the original repository.
+
+Please ensure your code adheres to the existing style and includes relevant tests. All contributions are welcome, from bug fixes and improvements to documentation and new features.
+
+## Support
+
+If you have any questions or need further assistance, please contact us at [support@yourdomain.com](mailto:support@tusargautam.com.np).
 
 
 
